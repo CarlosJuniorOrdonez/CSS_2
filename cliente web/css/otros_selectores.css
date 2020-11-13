@@ -1,0 +1,25 @@
+a{
+    color: violet;
+    text-decoration: none;
+}
+
+a:visited{
+    color: teal;
+}
+
+a:hover{
+    color: slategray;
+    text-decoration: underline;
+}
+
+a:focus{
+    color: tomato;
+    text-decoration: dotted;
+
+}
+
+a:active{
+    color: teal;
+    background-color: aliceblue;
+    text-decoration: line-through;
+}

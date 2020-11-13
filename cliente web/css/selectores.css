@@ -1,0 +1,40 @@
+#fila1{
+    color: teal;
+}
+
+#fila2{
+    color: red;
+}
+
+#fila3{
+    color: blue;
+}
+#fila4{
+    color: rgb(187, 255, 0);
+}
+#fila5{
+    color: rgb(234, 0, 255);
+}
+#fila6{
+    color: rgb(47, 240, 26);
+}
+#fila7{
+    color: rgb(167, 129, 123);
+}
+#fila8{
+    color: rgb(245, 16, 253);
+}
+
+/*Segunda Columna*/
+
+td{
+    background-color: rgb(194, 219, 196);
+}
+
+td+td{
+    background-color: brown;
+}
+
+td+td+td{
+    background-color: rgb(167, 129, 123);
+}
